@@ -1,4 +1,6 @@
-# Sistema de Monitoramento Ambiental
+<p align="center">
+  # Sistema de Monitoramento Ambiental
+</p>
 
 <p align="center">
   <img src="assets/img.png" alt="Funcionamento Real do Sistema">

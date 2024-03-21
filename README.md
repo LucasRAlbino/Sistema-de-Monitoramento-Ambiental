@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   # Sistema de Monitoramento Ambiental
-</p>
+</h1>
 
 <p align="center">
   <img src="assets/img.png" alt="Funcionamento Real do Sistema">

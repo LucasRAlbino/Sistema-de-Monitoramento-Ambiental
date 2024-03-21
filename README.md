@@ -1,6 +1,8 @@
 # Sistema de Monitoramento Ambiental
 
-![Imagem de Monitoramento Ambiental](assets/img.png)
+<p align="center">
+  <img src="assets/img.png" alt="Funcionamento Real do Sistema">
+</p>
 
 O projeto de Sistema de Monitoramento Ambiental tem como principal objetivo coletar, analisar e interpretar dados ambientais, como qualidade do ar, qualidade da água, níveis de ruído, clima e biodiversidade. A infraestrutura complexa e interconectada do sistema abrange a instalação de sensores em locais estratégicos, uma robusta infraestrutura de coleta de dados, sistemas de processamento e análise de dados, e a geração de relatórios personalizados para compartilhamento de informações.
 

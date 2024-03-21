@@ -12,6 +12,10 @@ O projeto de Sistema de Monitoramento Ambiental tem como principal objetivo cole
 
 A arquitetura escolhida para o Sistema de Monitoramento Ambiental é a MVC (Model-View-Controller), um padrão arquitetural amplamente utilizado no desenvolvimento de sistemas web. Essa arquitetura promove a separação de responsabilidades, facilitando a manutenção e escalabilidade do sistema. Além disso, o sistema é projetado para ser seguro, confiável, intuitivo e compatível com uma variedade de dispositivos e plataformas, seguindo padrões de dados reconhecidos internacionalmente.
 
+<p align="center">
+  <img src="assets/img2.png" alt="Padrão arquitetural MVC">
+</p>
+
 ## Funcionalidades Principais
 
 - Coleta de dados ambientais em tempo real.
